@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AbstractEntity
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AbstractEntity
 
 # Class: AbstractEntity<DTO, O\>
 
@@ -55,7 +55,7 @@
 
 #### Defined in
 
-[abstract.entity.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L37)
+[abstract.entity.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L37)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[abstract.entity.ts:44](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L44)
+[abstract.entity.ts:44](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L44)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[abstract.entity.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L32)
+[abstract.entity.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L32)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[abstract.entity.ts:42](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L42)
+[abstract.entity.ts:42](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L42)
 
 ## Methods
 
@@ -117,4 +117,4 @@ ___
 
 #### Defined in
 
-[abstract.entity.ts:46](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L46)
+[abstract.entity.ts:46](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L46)

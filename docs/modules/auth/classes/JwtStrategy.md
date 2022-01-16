@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / JwtStrategy
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / JwtStrategy
 
 # Class: JwtStrategy
 
@@ -47,7 +47,7 @@ PassportStrategy(Strategy).constructor
 
 #### Defined in
 
-[src/modules/auth/jwt.strategy.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/jwt.strategy.ts#L13)
+[src/modules/auth/jwt.strategy.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/jwt.strategy.ts#L13)
 
 ## Properties
 
@@ -290,4 +290,4 @@ ___
 
 #### Defined in
 
-[src/modules/auth/jwt.strategy.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/jwt.strategy.ts#L23)
+[src/modules/auth/jwt.strategy.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/jwt.strategy.ts#L23)

@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / LanguageCodeEnum
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / LanguageCodeEnum
 
 # Enumeration: LanguageCodeEnum
 
@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[language-code.enum.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/constants/language-code.enum.ts#L2)
+[language-code.enum.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/constants/language-code.enum.ts#L2)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[language-code.enum.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/constants/language-code.enum.ts#L3)
+[language-code.enum.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/constants/language-code.enum.ts#L3)

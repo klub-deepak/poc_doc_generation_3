@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / default
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / default
 
 # Class: default
 
@@ -44,4 +44,4 @@ Seeder.run
 
 #### Defined in
 
-[users.seed.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/database/seeds/users.seed.ts#L7)
+[users.seed.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/database/seeds/users.seed.ts#L7)

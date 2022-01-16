@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / IAbstractEntity
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / IAbstractEntity
 
 # Interface: IAbstractEntity<DTO, O\>
 
@@ -41,7 +41,7 @@ otherwise just delete and use your own entity.
 
 #### Defined in
 
-[abstract.entity.ts:20](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L20)
+[abstract.entity.ts:20](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L20)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[abstract.entity.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L19)
+[abstract.entity.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L19)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[abstract.entity.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L21)
+[abstract.entity.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L21)
 
 ## Methods
 
@@ -81,4 +81,4 @@ ___
 
 #### Defined in
 
-[abstract.entity.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L23)
+[abstract.entity.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L23)

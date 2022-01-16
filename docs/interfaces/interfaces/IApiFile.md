@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / IApiFile
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / IApiFile
 
 # Interface: IApiFile
 
@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[IApiFile.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/IApiFile.ts#L3)
+[IApiFile.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/IApiFile.ts#L3)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[IApiFile.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/IApiFile.ts#L2)
+[IApiFile.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/IApiFile.ts#L2)

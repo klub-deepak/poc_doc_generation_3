@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AbstractDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AbstractDto
 
 # Class: AbstractDto
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[abstract.dto.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/abstract.dto.ts#L15)
+[abstract.dto.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/abstract.dto.ts#L15)
 
 ## Properties
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[abstract.dto.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/abstract.dto.ts#L10)
+[abstract.dto.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/abstract.dto.ts#L10)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[abstract.dto.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/abstract.dto.ts#L7)
+[abstract.dto.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/abstract.dto.ts#L7)
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 #### Defined in
 
-[abstract.dto.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/abstract.dto.ts#L13)
+[abstract.dto.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/abstract.dto.ts#L13)

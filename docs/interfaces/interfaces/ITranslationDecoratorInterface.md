@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / ITranslationDecoratorInterface
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / ITranslationDecoratorInterface
 
 # Interface: ITranslationDecoratorInterface
 
@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[ITranslationDecoratorInterface.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/ITranslationDecoratorInterface.ts#L2)
+[ITranslationDecoratorInterface.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/ITranslationDecoratorInterface.ts#L2)

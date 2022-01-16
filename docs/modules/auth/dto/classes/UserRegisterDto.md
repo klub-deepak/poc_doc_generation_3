@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserRegisterDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserRegisterDto
 
 # Class: UserRegisterDto
 
@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[UserRegisterDto.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/UserRegisterDto.ts#L32)
+[UserRegisterDto.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/UserRegisterDto.ts#L32)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[UserRegisterDto.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/UserRegisterDto.ts#L19)
+[UserRegisterDto.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/UserRegisterDto.ts#L19)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[UserRegisterDto.ts:25](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/UserRegisterDto.ts#L25)
+[UserRegisterDto.ts:25](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/UserRegisterDto.ts#L25)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[UserRegisterDto.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/UserRegisterDto.ts#L37)
+[UserRegisterDto.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/UserRegisterDto.ts#L37)
 
 ___
 
@@ -70,4 +70,4 @@ ___
 
 #### Defined in
 
-[UserRegisterDto.ts:43](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/UserRegisterDto.ts#L43)
+[UserRegisterDto.ts:43](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/UserRegisterDto.ts#L43)

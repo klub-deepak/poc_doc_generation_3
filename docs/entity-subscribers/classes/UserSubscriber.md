@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserSubscriber
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserSubscriber
 
 # Class: UserSubscriber
 
@@ -46,7 +46,7 @@ EntitySubscriberInterface.beforeInsert
 
 #### Defined in
 
-[user-subscriber.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/entity-subscribers/user-subscriber.ts#L17)
+[user-subscriber.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/entity-subscribers/user-subscriber.ts#L17)
 
 ___
 
@@ -70,7 +70,7 @@ EntitySubscriberInterface.beforeUpdate
 
 #### Defined in
 
-[user-subscriber.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/entity-subscribers/user-subscriber.ts#L23)
+[user-subscriber.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/entity-subscribers/user-subscriber.ts#L23)
 
 ___
 
@@ -88,4 +88,4 @@ EntitySubscriberInterface.listenTo
 
 #### Defined in
 
-[user-subscriber.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/entity-subscribers/user-subscriber.ts#L13)
+[user-subscriber.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/entity-subscribers/user-subscriber.ts#L13)

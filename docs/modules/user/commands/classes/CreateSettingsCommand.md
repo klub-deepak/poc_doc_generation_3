@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / CreateSettingsCommand
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / CreateSettingsCommand
 
 # Class: CreateSettingsCommand
 
@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[create-settings.command.ts:9](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/commands/create-settings.command.ts#L9)
+[create-settings.command.ts:9](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/commands/create-settings.command.ts#L9)
 
 ## Properties
 

@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / PageDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / PageDto
 
 # Class: PageDto<T\>
 
@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[page.dto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page.dto.ts#L12)
+[page.dto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page.dto.ts#L12)
 
 ## Properties
 
@@ -50,7 +50,7 @@
 
 #### Defined in
 
-[page.dto.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page.dto.ts#L7)
+[page.dto.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page.dto.ts#L7)
 
 ___
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[page.dto.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page.dto.ts#L10)
+[page.dto.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page.dto.ts#L10)

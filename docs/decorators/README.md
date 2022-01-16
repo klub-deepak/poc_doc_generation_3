@@ -1,43 +1,111 @@
-awesome-nestjs-boilerplate
+awesome-nestjs-boilerplate / [Exports](modules.md)
 
-# awesome-nestjs-boilerplate
+# Awesome NestJS Boilerplate v8
 
-## Table of contents
+Added typedoc documentation
 
-### Variables
+[![Awesome NestJS](https://img.shields.io/badge/Awesome-NestJS-blue.svg?longCache=true&style=flat-square)](https://github.com/juliandavidmr/awesome-nestjs)
 
-- [VIRTUAL\_COLUMN\_KEY](README.md#virtual_column_key)
+> This is an ever-evolving, very opinionated architecture and dev environment for new node projects using [NestJS](https://nestjs.com). Questions, feedback, and for now, even bikeshedding are welcome. 😄
 
-### Functions
+## Getting started
 
-- [VirtualColumn](README.md#virtualcolumn)
+```bash
+# 1. Clone the repository or click on "Use this template" button.
+npx degit NarHakobyan/awesome-nest-boilerplate my-nest-app
 
-## Variables
+# 2. Enter your newly-cloned folder.
+cd my-nest-app
 
-### VIRTUAL\_COLUMN\_KEY
+# 3. Create Environment variables file.
+cp .env.example .env
 
-• **VIRTUAL\_COLUMN\_KEY**: typeof [`VIRTUAL_COLUMN_KEY`](README.md#virtual_column_key)
+# 3. Install dependencies. (Make sure yarn is installed: https://yarnpkg.com/lang/en/docs/install)
+yarn
+```
 
-#### Defined in
+## Checklist
 
-[virtual-column.decorator.ts:1](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/decorators/virtual-column.decorator.ts#L1)
+When you use this template, try follow the checklist to update your info properly
 
-## Functions
+- [ ] Change the author name in `LICENSE`
+- [ ] Change configurations in `.env`
+- [ ] Remove the `.github` folder which contains the funding info
+- [ ] Clean up the README.md file
 
-### VirtualColumn
+And, enjoy :)
 
-▸ **VirtualColumn**(`name?`): `PropertyDecorator`
+### Development
+```bash
+# 4. Run development server and open http://localhost:3000
+yarn start:dev
 
-#### Parameters
+# 5. Read the documentation linked below for "Setup and development".
+```
 
-| Name | Type |
-| :------ | :------ |
-| `name?` | `string` |
+### Build
 
-#### Returns
+To build the App, run
 
-`PropertyDecorator`
+```bash
+yarn build:prod
+```
 
-#### Defined in
+And you will see the generated file in `dist` that ready to be served.
 
-[virtual-column.decorator.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/decorators/virtual-column.decorator.ts#L3)
+## Features
+
+<dl>
+  <!-- <dt><b>Quick scaffolding</b></dt>
+  <dd>Create modules, services, controller - right from the CLI!</dd> -->
+
+  <dt><b>Instant feedback</b></dt>
+  <dd>Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes are reflected instantaneously.</dd>
+
+  <dt><b>JWT Authentication</b></dt>
+  <dd>Installed and configured JWT authentication.</dd>
+
+  <dt><b>Next generation Typescript</b></dt>
+  <dd>Always up to date typescript version.</dd>
+
+  <dt><b>Industry-standard routing</b></dt>
+  <dd>It's natural to want to add pages (e.g. /about`) to your application, and routing makes this possible.</dd>
+
+  <dt><b>Environment Configuration</b></dt>
+  <dd>development, staging and production environment configurations</dd>
+
+  <dt><b>Swagger Api Documentation</b></dt>
+  <dd>Already integrated API documentation. To see all available endpoints visit http://localhost:3000/documentation</dd>
+
+  <dt><b>Linter</b></dt>  
+  <dd>eslint + prettier = ❤️</dd>
+</dl>
+
+## Documentation
+
+This project includes a `docs` folder with more details on:
+
+1.  [Setup and development](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/development.html#first-time-setup)
+1.  [Architecture](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/architecture.html)
+1.  [Naming Cheatsheet](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/naming-cheatsheet.html)
+
+## Community
+
+For help, discussion about best practices, or any other conversation that would benefit from being searchable:
+
+[Discuss Awesome NestJS Boilerplate on GitHub](https://github.com/NarHakobyan/awesome-nest-boilerplate/discussions)
+
+"docs": "npm run typedoc -- --options typedoc.json --exclude '**/*.spec.ts' ./src/app/",
+"typedoc": "typedoc"
+
+npx typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs --entryPointStrategy expand ./src
+
+npx typedoc -- --options typedoc.json --exclude '**/*.spec.ts' ./src
+
+--plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs --entryPointStrategy expand ./src/**/*
+
+npx typedoc --entryPoints ./src --entryPointStrategy expand --out docs --plugin typedoc-plugin-markdown
+
+npx typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs/
+
+npx typedoc --tsconfig tsconfig.json --entryPointStrategy expand --out docs ./src --plugin typedoc-plugin-markdown

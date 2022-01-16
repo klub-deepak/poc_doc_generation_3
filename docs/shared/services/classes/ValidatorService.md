@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / ValidatorService
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / ValidatorService
 
 # Class: ValidatorService
 
@@ -36,4 +36,4 @@
 
 #### Defined in
 
-[validator.service.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/validator.service.ts#L5)
+[validator.service.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/validator.service.ts#L5)

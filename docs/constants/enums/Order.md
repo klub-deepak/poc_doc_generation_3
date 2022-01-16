@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / Order
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / Order
 
 # Enumeration: Order
 
@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[order.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/constants/order.ts#L2)
+[order.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/constants/order.ts#L2)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[order.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/constants/order.ts#L3)
+[order.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/constants/order.ts#L3)

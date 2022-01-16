@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / PageOptionsDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / PageOptionsDto
 
 # Class: PageOptionsDto
 
@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[page-options.dto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-options.dto.ts#L12)
+[page-options.dto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-options.dto.ts#L12)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[page-options.dto.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-options.dto.ts#L19)
+[page-options.dto.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-options.dto.ts#L19)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[page-options.dto.ts:34](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-options.dto.ts#L34)
+[page-options.dto.ts:34](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-options.dto.ts#L34)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[page-options.dto.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-options.dto.ts#L27)
+[page-options.dto.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-options.dto.ts#L27)
 
 ## Accessors
 
@@ -77,4 +77,4 @@ ___
 
 #### Defined in
 
-[page-options.dto.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-options.dto.ts#L29)
+[page-options.dto.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-options.dto.ts#L29)

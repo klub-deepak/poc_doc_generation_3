@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / PageTypeException
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / PageTypeException
 
 # Class: PageTypeException
 
@@ -43,7 +43,7 @@ BadRequestException.constructor
 
 #### Defined in
 
-[src/exceptions/page-type.exception.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/exceptions/page-type.exception.ts#L4)
+[src/exceptions/page-type.exception.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/exceptions/page-type.exception.ts#L4)
 
 ## Properties
 

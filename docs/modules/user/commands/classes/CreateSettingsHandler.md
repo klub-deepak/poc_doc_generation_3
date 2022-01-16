@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / CreateSettingsHandler
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / CreateSettingsHandler
 
 # Class: CreateSettingsHandler
 
@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[create-settings.command.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/commands/create-settings.command.ts#L19)
+[create-settings.command.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/commands/create-settings.command.ts#L19)
 
 ## Methods
 
@@ -54,4 +54,4 @@ ICommandHandler.execute
 
 #### Defined in
 
-[create-settings.command.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/commands/create-settings.command.ts#L21)
+[create-settings.command.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/commands/create-settings.command.ts#L21)

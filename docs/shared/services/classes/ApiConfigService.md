@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / ApiConfigService
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / ApiConfigService
 
 # Class: ApiConfigService
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[api-config.service.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L11)
+[api-config.service.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L11)
 
 ## Accessors
 
@@ -62,7 +62,7 @@
 
 #### Defined in
 
-[api-config.service.ts:138](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L138)
+[api-config.service.ts:138](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L138)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:131](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L131)
+[api-config.service.ts:131](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L131)
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:108](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L108)
+[api-config.service.ts:108](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L108)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:116](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L116)
+[api-config.service.ts:116](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L116)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:55](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L55)
+[api-config.service.ts:55](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L55)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L13)
+[api-config.service.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L13)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L17)
+[api-config.service.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L17)
 
 ___
 
@@ -171,7 +171,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L21)
+[api-config.service.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L21)
 
 ___
 
@@ -190,7 +190,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:124](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L124)
+[api-config.service.ts:124](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L124)
 
 ___
 
@@ -204,7 +204,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:120](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L120)
+[api-config.service.ts:120](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L120)
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:51](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L51)
+[api-config.service.ts:51](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L51)
 
 ___
 
@@ -232,7 +232,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:59](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L59)
+[api-config.service.ts:59](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L59)
 
 ## Methods
 
@@ -252,7 +252,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:144](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L144)
+[api-config.service.ts:144](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L144)
 
 ___
 
@@ -272,7 +272,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:35](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L35)
+[api-config.service.ts:35](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L35)
 
 ___
 
@@ -292,7 +292,7 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:25](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L25)
+[api-config.service.ts:25](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L25)
 
 ___
 
@@ -312,4 +312,4 @@ ___
 
 #### Defined in
 
-[api-config.service.ts:45](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/api-config.service.ts#L45)
+[api-config.service.ts:45](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/api-config.service.ts#L45)

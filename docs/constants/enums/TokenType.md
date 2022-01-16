@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / TokenType
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / TokenType
 
 # Enumeration: TokenType
 
@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[token-type.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/constants/token-type.ts#L2)
+[token-type.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/constants/token-type.ts#L2)

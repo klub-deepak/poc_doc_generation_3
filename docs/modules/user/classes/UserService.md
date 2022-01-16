@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserService
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserService
 
 # Class: UserService
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[user.service.ts:24](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.service.ts#L24)
+[user.service.ts:24](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.service.ts#L24)
 
 ## Methods
 
@@ -55,7 +55,7 @@
 
 #### Defined in
 
-[user.service.ts:109](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.service.ts#L109)
+[user.service.ts:109](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.service.ts#L109)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[user.service.ts:59](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.service.ts#L59)
+[user.service.ts:59](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.service.ts#L59)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[user.service.ts:38](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.service.ts#L38)
+[user.service.ts:38](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.service.ts#L38)
 
 ___
 
@@ -118,7 +118,7 @@ Find single user
 
 #### Defined in
 
-[user.service.ts:34](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.service.ts#L34)
+[user.service.ts:34](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.service.ts#L34)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[user.service.ts:95](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.service.ts#L95)
+[user.service.ts:95](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.service.ts#L95)
 
 ___
 
@@ -158,4 +158,4 @@ ___
 
 #### Defined in
 
-[user.service.ts:86](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.service.ts#L86)
+[user.service.ts:86](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.service.ts#L86)

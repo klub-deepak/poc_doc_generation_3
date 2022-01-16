@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / HttpExceptionFilter
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / HttpExceptionFilter
 
 # Class: HttpExceptionFilter
 
@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[bad-request.filter.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/filters/bad-request.filter.ts#L12)
+[bad-request.filter.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/filters/bad-request.filter.ts#L12)
 
 ## Properties
 
@@ -66,7 +66,7 @@ ExceptionFilter.catch
 
 #### Defined in
 
-[bad-request.filter.ts:14](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/filters/bad-request.filter.ts#L14)
+[bad-request.filter.ts:14](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/filters/bad-request.filter.ts#L14)
 
 ___
 
@@ -86,4 +86,4 @@ ___
 
 #### Defined in
 
-[bad-request.filter.ts:26](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/filters/bad-request.filter.ts#L26)
+[bad-request.filter.ts:26](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/filters/bad-request.filter.ts#L26)

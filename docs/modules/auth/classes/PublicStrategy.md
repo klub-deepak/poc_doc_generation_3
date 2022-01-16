@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / PublicStrategy
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / PublicStrategy
 
 # Class: PublicStrategy
 
@@ -39,7 +39,7 @@ PassportStrategy(Strategy, &#x27;public&#x27;).constructor
 
 #### Defined in
 
-[src/modules/auth/public.strategy.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/public.strategy.ts#L7)
+[src/modules/auth/public.strategy.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/public.strategy.ts#L7)
 
 ## Properties
 
@@ -71,7 +71,7 @@ PassportStrategy(Strategy, &#x27;public&#x27;).authenticate
 
 #### Defined in
 
-[src/modules/auth/public.strategy.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/public.strategy.ts#L11)
+[src/modules/auth/public.strategy.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/public.strategy.ts#L11)
 
 ___
 

@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserEntity
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserEntity
 
 # Class: UserEntity
 
@@ -59,7 +59,7 @@ AbstractEntity<UserDto, UserDtoOptions\>.constructor
 
 #### Defined in
 
-[modules/user/user.entity.ts:57](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L57)
+[modules/user/user.entity.ts:57](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L57)
 
 ___
 
@@ -77,7 +77,7 @@ AbstractEntity.createdAt
 
 #### Defined in
 
-[common/abstract.entity.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L37)
+[common/abstract.entity.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L37)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:48](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L48)
+[modules/user/user.entity.ts:48](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L48)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:39](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L39)
+[modules/user/user.entity.ts:39](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L39)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:60](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L60)
+[modules/user/user.entity.ts:60](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L60)
 
 ___
 
@@ -137,7 +137,7 @@ AbstractEntity.id
 
 #### Defined in
 
-[common/abstract.entity.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L32)
+[common/abstract.entity.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L32)
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:42](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L42)
+[modules/user/user.entity.ts:42](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L42)
 
 ___
 
@@ -165,7 +165,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:51](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L51)
+[modules/user/user.entity.ts:51](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L51)
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:54](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L54)
+[modules/user/user.entity.ts:54](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L54)
 
 ___
 
@@ -193,7 +193,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:45](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L45)
+[modules/user/user.entity.ts:45](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L45)
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:63](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L63)
+[modules/user/user.entity.ts:63](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L63)
 
 ___
 
@@ -225,7 +225,7 @@ AbstractEntity.updatedAt
 
 #### Defined in
 
-[common/abstract.entity.ts:42](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L42)
+[common/abstract.entity.ts:42](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L42)
 
 ## Methods
 
@@ -253,4 +253,4 @@ AbstractEntity.toDto
 
 #### Defined in
 
-[common/abstract.entity.ts:46](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L46)
+[common/abstract.entity.ts:46](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L46)

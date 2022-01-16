@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / HealthCheckerModule
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / HealthCheckerModule
 
 # Class: HealthCheckerModule
 

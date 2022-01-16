@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / IUserEntity
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / IUserEntity
 
 # Interface: IUserEntity
 
@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[modules/user/user.entity.ts:25](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L25)
+[modules/user/user.entity.ts:25](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L25)
 
 ___
 
@@ -55,7 +55,7 @@ IAbstractEntity.createdAt
 
 #### Defined in
 
-[common/abstract.entity.ts:20](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L20)
+[common/abstract.entity.ts:20](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L20)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L19)
+[modules/user/user.entity.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L19)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L13)
+[modules/user/user.entity.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L13)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L27)
+[modules/user/user.entity.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L27)
 
 ___
 
@@ -99,7 +99,7 @@ IAbstractEntity.id
 
 #### Defined in
 
-[common/abstract.entity.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L19)
+[common/abstract.entity.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L19)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L15)
+[modules/user/user.entity.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L15)
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L21)
+[modules/user/user.entity.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L21)
 
 ___
 
@@ -129,7 +129,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L23)
+[modules/user/user.entity.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L23)
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L17)
+[modules/user/user.entity.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L17)
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-[modules/user/user.entity.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user.entity.ts#L29)
+[modules/user/user.entity.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user.entity.ts#L29)
 
 ___
 
@@ -163,7 +163,7 @@ IAbstractEntity.updatedAt
 
 #### Defined in
 
-[common/abstract.entity.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L21)
+[common/abstract.entity.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L21)
 
 ## Methods
 
@@ -187,4 +187,4 @@ IAbstractEntity.toDto
 
 #### Defined in
 
-[common/abstract.entity.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L23)
+[common/abstract.entity.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L23)

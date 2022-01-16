@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / ContextProvider
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / ContextProvider
 
 # Class: ContextProvider
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[context.provider.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L8)
+[context.provider.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L8)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[context.provider.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L10)
+[context.provider.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L10)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[context.provider.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L6)
+[context.provider.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L6)
 
 ## Methods
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[context.provider.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L12)
+[context.provider.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L12)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[context.provider.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L37)
+[context.provider.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L37)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[context.provider.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L21)
+[context.provider.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L21)
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 #### Defined in
 
-[context.provider.ts:33](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L33)
+[context.provider.ts:33](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L33)
 
 ___
 
@@ -153,7 +153,7 @@ ___
 
 #### Defined in
 
-[context.provider.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L17)
+[context.provider.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L17)
 
 ___
 
@@ -173,7 +173,7 @@ ___
 
 #### Defined in
 
-[context.provider.ts:25](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L25)
+[context.provider.ts:25](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L25)
 
 ___
 
@@ -193,4 +193,4 @@ ___
 
 #### Defined in
 
-[context.provider.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/providers/context.provider.ts#L29)
+[context.provider.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/providers/context.provider.ts#L29)

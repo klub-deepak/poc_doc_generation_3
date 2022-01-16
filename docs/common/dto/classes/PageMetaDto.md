@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / PageMetaDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / PageMetaDto
 
 # Class: PageMetaDto
 
@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[page-meta.dto.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-meta.dto.ts#L29)
+[page-meta.dto.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-meta.dto.ts#L29)
 
 ## Properties
 
@@ -41,7 +41,7 @@
 
 #### Defined in
 
-[page-meta.dto.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-meta.dto.ts#L27)
+[page-meta.dto.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-meta.dto.ts#L27)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[page-meta.dto.ts:24](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-meta.dto.ts#L24)
+[page-meta.dto.ts:24](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-meta.dto.ts#L24)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[page-meta.dto.ts:18](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-meta.dto.ts#L18)
+[page-meta.dto.ts:18](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-meta.dto.ts#L18)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[page-meta.dto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-meta.dto.ts#L12)
+[page-meta.dto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-meta.dto.ts#L12)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[page-meta.dto.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-meta.dto.ts#L21)
+[page-meta.dto.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-meta.dto.ts#L21)
 
 ___
 
@@ -91,4 +91,4 @@ ___
 
 #### Defined in
 
-[page-meta.dto.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/page-meta.dto.ts#L15)
+[page-meta.dto.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/page-meta.dto.ts#L15)

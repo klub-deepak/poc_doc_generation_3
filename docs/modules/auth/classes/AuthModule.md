@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AuthModule
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AuthModule
 
 # Class: AuthModule
 

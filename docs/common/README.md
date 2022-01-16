@@ -1,82 +1,111 @@
-awesome-nestjs-boilerplate
+awesome-nestjs-boilerplate / [Exports](modules.md)
 
-# awesome-nestjs-boilerplate
+# Awesome NestJS Boilerplate v8
 
-## Table of contents
+Added typedoc documentation
 
-### Functions
+[![Awesome NestJS](https://img.shields.io/badge/Awesome-NestJS-blue.svg?longCache=true&style=flat-square)](https://github.com/juliandavidmr/awesome-nestjs)
 
-- [generateHash](README.md#generatehash)
-- [getVariableName](README.md#getvariablename)
-- [validateHash](README.md#validatehash)
+> This is an ever-evolving, very opinionated architecture and dev environment for new node projects using [NestJS](https://nestjs.com). Questions, feedback, and for now, even bikeshedding are welcome. 😄
 
-## Functions
+## Getting started
 
-### generateHash
+```bash
+# 1. Clone the repository or click on "Use this template" button.
+npx degit NarHakobyan/awesome-nest-boilerplate my-nest-app
 
-▸ **generateHash**(`password`): `string`
+# 2. Enter your newly-cloned folder.
+cd my-nest-app
 
-generate hash from password or string
+# 3. Create Environment variables file.
+cp .env.example .env
 
-#### Parameters
+# 3. Install dependencies. (Make sure yarn is installed: https://yarnpkg.com/lang/en/docs/install)
+yarn
+```
 
-| Name | Type |
-| :------ | :------ |
-| `password` | `string` |
+## Checklist
 
-#### Returns
+When you use this template, try follow the checklist to update your info properly
 
-`string`
+- [ ] Change the author name in `LICENSE`
+- [ ] Change configurations in `.env`
+- [ ] Remove the `.github` folder which contains the funding info
+- [ ] Clean up the README.md file
 
-#### Defined in
+And, enjoy :)
 
-[utils.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/utils.ts#L10)
+### Development
+```bash
+# 4. Run development server and open http://localhost:3000
+yarn start:dev
 
-___
+# 5. Read the documentation linked below for "Setup and development".
+```
 
-### getVariableName
+### Build
 
-▸ **getVariableName**<`TResult`\>(`getVar`): `string`
+To build the App, run
 
-#### Type parameters
+```bash
+yarn build:prod
+```
 
-| Name |
-| :------ |
-| `TResult` |
+And you will see the generated file in `dist` that ready to be served.
 
-#### Parameters
+## Features
 
-| Name | Type |
-| :------ | :------ |
-| `getVar` | () => `TResult` |
+<dl>
+  <!-- <dt><b>Quick scaffolding</b></dt>
+  <dd>Create modules, services, controller - right from the CLI!</dd> -->
 
-#### Returns
+  <dt><b>Instant feedback</b></dt>
+  <dd>Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes are reflected instantaneously.</dd>
 
-`string`
+  <dt><b>JWT Authentication</b></dt>
+  <dd>Installed and configured JWT authentication.</dd>
 
-#### Defined in
+  <dt><b>Next generation Typescript</b></dt>
+  <dd>Always up to date typescript version.</dd>
 
-[utils.ts:31](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/utils.ts#L31)
+  <dt><b>Industry-standard routing</b></dt>
+  <dd>It's natural to want to add pages (e.g. /about`) to your application, and routing makes this possible.</dd>
 
-___
+  <dt><b>Environment Configuration</b></dt>
+  <dd>development, staging and production environment configurations</dd>
 
-### validateHash
+  <dt><b>Swagger Api Documentation</b></dt>
+  <dd>Already integrated API documentation. To see all available endpoints visit http://localhost:3000/documentation</dd>
 
-▸ **validateHash**(`password`, `hash`): `Promise`<`boolean`\>
+  <dt><b>Linter</b></dt>  
+  <dd>eslint + prettier = ❤️</dd>
+</dl>
 
-validate text with hash
+## Documentation
 
-#### Parameters
+This project includes a `docs` folder with more details on:
 
-| Name | Type |
-| :------ | :------ |
-| `password` | `Optional`<`string`\> |
-| `hash` | `Optional`<`string`\> |
+1.  [Setup and development](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/development.html#first-time-setup)
+1.  [Architecture](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/architecture.html)
+1.  [Naming Cheatsheet](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/naming-cheatsheet.html)
 
-#### Returns
+## Community
 
-`Promise`<`boolean`\>
+For help, discussion about best practices, or any other conversation that would benefit from being searchable:
 
-#### Defined in
+[Discuss Awesome NestJS Boilerplate on GitHub](https://github.com/NarHakobyan/awesome-nest-boilerplate/discussions)
 
-[utils.ts:20](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/utils.ts#L20)
+"docs": "npm run typedoc -- --options typedoc.json --exclude '**/*.spec.ts' ./src/app/",
+"typedoc": "typedoc"
+
+npx typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs --entryPointStrategy expand ./src
+
+npx typedoc -- --options typedoc.json --exclude '**/*.spec.ts' ./src
+
+--plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs --entryPointStrategy expand ./src/**/*
+
+npx typedoc --entryPoints ./src --entryPointStrategy expand --out docs --plugin typedoc-plugin-markdown
+
+npx typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs/
+
+npx typedoc --tsconfig tsconfig.json --entryPointStrategy expand --out docs ./src --plugin typedoc-plugin-markdown

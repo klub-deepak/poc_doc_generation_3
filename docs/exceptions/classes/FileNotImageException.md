@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / FileNotImageException
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / FileNotImageException
 
 # Class: FileNotImageException
 
@@ -49,7 +49,7 @@ BadRequestException.constructor
 
 #### Defined in
 
-[src/exceptions/file-not-image.exception.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/exceptions/file-not-image.exception.ts#L4)
+[src/exceptions/file-not-image.exception.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/exceptions/file-not-image.exception.ts#L4)
 
 ## Properties
 

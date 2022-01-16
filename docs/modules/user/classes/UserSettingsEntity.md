@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserSettingsEntity
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserSettingsEntity
 
 # Class: UserSettingsEntity
 
@@ -58,7 +58,7 @@ AbstractEntity.createdAt
 
 #### Defined in
 
-[common/abstract.entity.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L37)
+[common/abstract.entity.ts:37](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L37)
 
 ___
 
@@ -76,7 +76,7 @@ AbstractEntity.id
 
 #### Defined in
 
-[common/abstract.entity.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L32)
+[common/abstract.entity.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L32)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[modules/user/user-settings.entity.ts:26](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user-settings.entity.ts#L26)
+[modules/user/user-settings.entity.ts:26](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user-settings.entity.ts#L26)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[modules/user/user-settings.entity.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user-settings.entity.ts#L29)
+[modules/user/user-settings.entity.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user-settings.entity.ts#L29)
 
 ___
 
@@ -122,7 +122,7 @@ AbstractEntity.updatedAt
 
 #### Defined in
 
-[common/abstract.entity.ts:42](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L42)
+[common/abstract.entity.ts:42](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L42)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[modules/user/user-settings.entity.ts:36](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user-settings.entity.ts#L36)
+[modules/user/user-settings.entity.ts:36](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user-settings.entity.ts#L36)
 
 ___
 
@@ -146,7 +146,7 @@ ___
 
 #### Defined in
 
-[modules/user/user-settings.entity.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user-settings.entity.ts#L32)
+[modules/user/user-settings.entity.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user-settings.entity.ts#L32)
 
 ## Methods
 
@@ -174,4 +174,4 @@ AbstractEntity.toDto
 
 #### Defined in
 
-[common/abstract.entity.ts:46](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L46)
+[common/abstract.entity.ts:46](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L46)

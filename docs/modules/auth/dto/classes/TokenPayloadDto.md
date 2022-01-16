@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / TokenPayloadDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / TokenPayloadDto
 
 # Class: TokenPayloadDto
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[TokenPayloadDto.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/TokenPayloadDto.ts#L10)
+[TokenPayloadDto.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/TokenPayloadDto.ts#L10)
 
 ## Properties
 
@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[TokenPayloadDto.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/TokenPayloadDto.ts#L8)
+[TokenPayloadDto.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/TokenPayloadDto.ts#L8)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[TokenPayloadDto.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/TokenPayloadDto.ts#L5)
+[TokenPayloadDto.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/TokenPayloadDto.ts#L5)

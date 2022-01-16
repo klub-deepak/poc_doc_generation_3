@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / LoginPayloadDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / LoginPayloadDto
 
 # Class: LoginPayloadDto
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[LoginPayloadDto.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/LoginPayloadDto.ts#L13)
+[LoginPayloadDto.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/LoginPayloadDto.ts#L13)
 
 ## Properties
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[LoginPayloadDto.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/LoginPayloadDto.ts#L11)
+[LoginPayloadDto.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/LoginPayloadDto.ts#L11)
 
 ___
 
@@ -48,4 +48,4 @@ ___
 
 #### Defined in
 
-[LoginPayloadDto.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/LoginPayloadDto.ts#L8)
+[LoginPayloadDto.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/LoginPayloadDto.ts#L8)

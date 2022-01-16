@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / QueryFailedFilter
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / QueryFailedFilter
 
 # Class: QueryFailedFilter
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[query-failed.filter.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/filters/query-failed.filter.ts#L12)
+[query-failed.filter.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/filters/query-failed.filter.ts#L12)
 
 ## Properties
 
@@ -65,4 +65,4 @@ ExceptionFilter.catch
 
 #### Defined in
 
-[query-failed.filter.ts:14](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/filters/query-failed.filter.ts#L14)
+[query-failed.filter.ts:14](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/filters/query-failed.filter.ts#L14)

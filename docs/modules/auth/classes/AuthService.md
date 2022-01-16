@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AuthService
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AuthService
 
 # Class: AuthService
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[auth.service.ts:16](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/auth.service.ts#L16)
+[auth.service.ts:16](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/auth.service.ts#L16)
 
 ## Methods
 
@@ -51,7 +51,7 @@
 
 #### Defined in
 
-[auth.service.ts:22](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/auth.service.ts#L22)
+[auth.service.ts:22](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/auth.service.ts#L22)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[auth.service.ts:36](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/auth.service.ts#L36)
+[auth.service.ts:36](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/auth.service.ts#L36)

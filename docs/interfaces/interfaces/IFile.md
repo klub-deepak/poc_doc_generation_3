@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / IFile
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / IFile
 
 # Interface: IFile
 
@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[IFile.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/IFile.ts#L3)
+[IFile.ts:3](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/IFile.ts#L3)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[IFile.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/IFile.ts#L2)
+[IFile.ts:2](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/IFile.ts#L2)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[IFile.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/IFile.ts#L4)
+[IFile.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/IFile.ts#L4)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 #### Defined in
 
-[IFile.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/IFile.ts#L5)
+[IFile.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/IFile.ts#L5)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[IFile.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/IFile.ts#L6)
+[IFile.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/IFile.ts#L6)
 
 ___
 
@@ -71,4 +71,4 @@ ___
 
 #### Defined in
 
-[IFile.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interfaces/IFile.ts#L7)
+[IFile.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interfaces/IFile.ts#L7)

@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AwsS3Service
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AwsS3Service
 
 # Class: AwsS3Service
 
@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[aws-s3.service.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/aws-s3.service.ts#L13)
+[aws-s3.service.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/aws-s3.service.ts#L13)
 
 ## Properties
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[aws-s3.service.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/aws-s3.service.ts#L11)
+[aws-s3.service.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/aws-s3.service.ts#L11)
 
 ## Methods
 
@@ -75,4 +75,4 @@ ___
 
 #### Defined in
 
-[aws-s3.service.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/aws-s3.service.ts#L27)
+[aws-s3.service.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/aws-s3.service.ts#L27)

@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserNotFoundException
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserNotFoundException
 
 # Class: UserNotFoundException
 
@@ -49,7 +49,7 @@ NotFoundException.constructor
 
 #### Defined in
 
-[src/exceptions/user-not-found.exception.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/exceptions/user-not-found.exception.ts#L4)
+[src/exceptions/user-not-found.exception.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/exceptions/user-not-found.exception.ts#L4)
 
 ## Properties
 

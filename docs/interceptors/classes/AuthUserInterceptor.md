@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AuthUserInterceptor
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AuthUserInterceptor
 
 # Class: AuthUserInterceptor
 
@@ -45,4 +45,4 @@ NestInterceptor.intercept
 
 #### Defined in
 
-[auth-user-interceptor.service.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interceptors/auth-user-interceptor.service.ts#L13)
+[auth-user-interceptor.service.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interceptors/auth-user-interceptor.service.ts#L13)

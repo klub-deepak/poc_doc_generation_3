@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserDto
 
 # Class: UserDto
 
@@ -47,7 +47,7 @@ AbstractDto.constructor
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:35](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L35)
+[modules/user/dto/user.dto.ts:35](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L35)
 
 ## Properties
 
@@ -57,7 +57,7 @@ AbstractDto.constructor
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L27)
+[modules/user/dto/user.dto.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L27)
 
 ___
 
@@ -71,7 +71,7 @@ AbstractDto.createdAt
 
 #### Defined in
 
-[common/dto/abstract.dto.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/abstract.dto.ts#L10)
+[common/dto/abstract.dto.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/abstract.dto.ts#L10)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:24](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L24)
+[modules/user/dto/user.dto.ts:24](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L24)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L12)
+[modules/user/dto/user.dto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L12)
 
 ___
 
@@ -105,7 +105,7 @@ AbstractDto.id
 
 #### Defined in
 
-[common/dto/abstract.dto.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/abstract.dto.ts#L7)
+[common/dto/abstract.dto.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/abstract.dto.ts#L7)
 
 ___
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:33](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L33)
+[modules/user/dto/user.dto.ts:33](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L33)
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L15)
+[modules/user/dto/user.dto.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L15)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:30](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L30)
+[modules/user/dto/user.dto.ts:30](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L30)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L21)
+[modules/user/dto/user.dto.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L21)
 
 ___
 
@@ -159,7 +159,7 @@ AbstractDto.updatedAt
 
 #### Defined in
 
-[common/dto/abstract.dto.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/dto/abstract.dto.ts#L13)
+[common/dto/abstract.dto.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/dto/abstract.dto.ts#L13)
 
 ___
 
@@ -169,4 +169,4 @@ ___
 
 #### Defined in
 
-[modules/user/dto/user.dto.ts:18](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/user.dto.ts#L18)
+[modules/user/dto/user.dto.ts:18](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/user.dto.ts#L18)

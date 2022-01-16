@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / ServiceHealthIndicator
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / ServiceHealthIndicator
 
 # Class: ServiceHealthIndicator
 
@@ -37,7 +37,7 @@ HealthIndicator.constructor
 
 #### Defined in
 
-[src/modules/health-checker/health-indicators/service.indicator.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/health-checker/health-indicators/service.indicator.ts#L10)
+[src/modules/health-checker/health-indicators/service.indicator.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/health-checker/health-indicators/service.indicator.ts#L10)
 
 ## Methods
 
@@ -85,4 +85,4 @@ ___
 
 #### Defined in
 
-[src/modules/health-checker/health-indicators/service.indicator.ts:18](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/health-checker/health-indicators/service.indicator.ts#L18)
+[src/modules/health-checker/health-indicators/service.indicator.ts:18](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/health-checker/health-indicators/service.indicator.ts#L18)

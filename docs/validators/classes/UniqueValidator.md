@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UniqueValidator
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UniqueValidator
 
 # Class: UniqueValidator
 
@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[unique.validator.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/validators/unique.validator.ts#L15)
+[unique.validator.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/validators/unique.validator.ts#L15)
 
 ## Methods
 
@@ -55,7 +55,7 @@ ValidatorConstraintInterface.defaultMessage
 
 #### Defined in
 
-[unique.validator.ts:35](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/validators/unique.validator.ts#L35)
+[unique.validator.ts:35](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/validators/unique.validator.ts#L35)
 
 ___
 
@@ -86,4 +86,4 @@ ValidatorConstraintInterface.validate
 
 #### Defined in
 
-[unique.validator.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/validators/unique.validator.ts#L17)
+[unique.validator.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/validators/unique.validator.ts#L17)

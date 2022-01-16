@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserLoginDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserLoginDto
 
 # Class: UserLoginDto
 
@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[UserLoginDto.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/UserLoginDto.ts#L8)
+[UserLoginDto.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/UserLoginDto.ts#L8)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[UserLoginDto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/dto/UserLoginDto.ts#L12)
+[UserLoginDto.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/dto/UserLoginDto.ts#L12)

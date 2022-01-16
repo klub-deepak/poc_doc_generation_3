@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AddUserSettings1639940635548
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AddUserSettings1639940635548
 
 # Class: AddUserSettings1639940635548
 
@@ -39,7 +39,7 @@ MigrationInterface.name
 
 #### Defined in
 
-[1639940635548-add-user-settings.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/database/migrations/1639940635548-add-user-settings.ts#L4)
+[1639940635548-add-user-settings.ts:4](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/database/migrations/1639940635548-add-user-settings.ts#L4)
 
 ## Methods
 
@@ -63,7 +63,7 @@ MigrationInterface.down
 
 #### Defined in
 
-[1639940635548-add-user-settings.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/database/migrations/1639940635548-add-user-settings.ts#L23)
+[1639940635548-add-user-settings.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/database/migrations/1639940635548-add-user-settings.ts#L23)
 
 ___
 
@@ -87,4 +87,4 @@ MigrationInterface.up
 
 #### Defined in
 
-[1639940635548-add-user-settings.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/database/migrations/1639940635548-add-user-settings.ts#L6)
+[1639940635548-add-user-settings.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/database/migrations/1639940635548-add-user-settings.ts#L6)

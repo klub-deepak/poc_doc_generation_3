@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / PostModule
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / PostModule
 
 # Class: PostModule
 

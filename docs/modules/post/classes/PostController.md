@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / PostController
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / PostController
 
 # Class: PostController
 
@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[post.controller.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/post/post.controller.ts#L6)
+[post.controller.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/post/post.controller.ts#L6)
 
 ## Methods
 
@@ -40,4 +40,4 @@
 
 #### Defined in
 
-[post.controller.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/post/post.controller.ts#L11)
+[post.controller.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/post/post.controller.ts#L11)

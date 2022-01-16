@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / IUserSettingsEntity
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / IUserSettingsEntity
 
 # Interface: IUserSettingsEntity
 
@@ -39,7 +39,7 @@ IAbstractEntity.createdAt
 
 #### Defined in
 
-[common/abstract.entity.ts:20](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L20)
+[common/abstract.entity.ts:20](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L20)
 
 ___
 
@@ -53,7 +53,7 @@ IAbstractEntity.id
 
 #### Defined in
 
-[common/abstract.entity.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L19)
+[common/abstract.entity.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L19)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[modules/user/user-settings.entity.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user-settings.entity.ts#L12)
+[modules/user/user-settings.entity.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user-settings.entity.ts#L12)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[modules/user/user-settings.entity.ts:14](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user-settings.entity.ts#L14)
+[modules/user/user-settings.entity.ts:14](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user-settings.entity.ts#L14)
 
 ___
 
@@ -87,7 +87,7 @@ IAbstractEntity.updatedAt
 
 #### Defined in
 
-[common/abstract.entity.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L21)
+[common/abstract.entity.ts:21](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L21)
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 #### Defined in
 
-[modules/user/user-settings.entity.ts:16](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/user-settings.entity.ts#L16)
+[modules/user/user-settings.entity.ts:16](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/user-settings.entity.ts#L16)
 
 ## Methods
 
@@ -121,4 +121,4 @@ IAbstractEntity.toDto
 
 #### Defined in
 
-[common/abstract.entity.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract.entity.ts#L23)
+[common/abstract.entity.ts:23](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract.entity.ts#L23)

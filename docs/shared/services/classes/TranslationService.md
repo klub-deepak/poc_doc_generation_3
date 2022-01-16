@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / TranslationService
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / TranslationService
 
 # Class: TranslationService
 
@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[translation.service.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/translation.service.ts#L13)
+[translation.service.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/translation.service.ts#L13)
 
 ## Methods
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[translation.service.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/translation.service.ts#L15)
+[translation.service.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/translation.service.ts#L15)
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 #### Defined in
 
-[translation.service.ts:22](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/translation.service.ts#L22)
+[translation.service.ts:22](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/translation.service.ts#L22)

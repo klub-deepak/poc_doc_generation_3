@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / CreateSettingsDto
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / CreateSettingsDto
 
 # Class: CreateSettingsDto
 
@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[create-settings.dto.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/create-settings.dto.ts#L5)
+[create-settings.dto.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/create-settings.dto.ts#L5)
 
 ___
 
@@ -37,4 +37,4 @@ ___
 
 #### Defined in
 
-[create-settings.dto.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/user/dto/create-settings.dto.ts#L8)
+[create-settings.dto.ts:8](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/user/dto/create-settings.dto.ts#L8)

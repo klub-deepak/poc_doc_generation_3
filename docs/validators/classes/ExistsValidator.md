@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / ExistsValidator
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / ExistsValidator
 
 # Class: ExistsValidator
 
@@ -31,7 +31,7 @@
 
 #### Defined in
 
-[exists.validator.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/validators/exists.validator.ts#L15)
+[exists.validator.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/validators/exists.validator.ts#L15)
 
 ## Methods
 
@@ -55,7 +55,7 @@ ValidatorConstraintInterface.defaultMessage
 
 #### Defined in
 
-[exists.validator.ts:35](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/validators/exists.validator.ts#L35)
+[exists.validator.ts:35](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/validators/exists.validator.ts#L35)
 
 ___
 
@@ -86,4 +86,4 @@ ValidatorConstraintInterface.validate
 
 #### Defined in
 
-[exists.validator.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/validators/exists.validator.ts#L17)
+[exists.validator.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/validators/exists.validator.ts#L17)

@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / TranslationInterceptor
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / TranslationInterceptor
 
 # Class: TranslationInterceptor
 
@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[translation-interceptor.service.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interceptors/translation-interceptor.service.ts#L15)
+[translation-interceptor.service.ts:15](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interceptors/translation-interceptor.service.ts#L15)
 
 ## Methods
 
@@ -55,4 +55,4 @@ NestInterceptor.intercept
 
 #### Defined in
 
-[translation-interceptor.service.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/interceptors/translation-interceptor.service.ts#L17)
+[translation-interceptor.service.ts:17](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/interceptors/translation-interceptor.service.ts#L17)

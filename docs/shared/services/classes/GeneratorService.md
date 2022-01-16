@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / GeneratorService
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / GeneratorService
 
 # Class: GeneratorService
 
@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[generator.service.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/generator.service.ts#L10)
+[generator.service.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/generator.service.ts#L10)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[generator.service.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/shared/services/generator.service.ts#L6)
+[generator.service.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/shared/services/generator.service.ts#L6)

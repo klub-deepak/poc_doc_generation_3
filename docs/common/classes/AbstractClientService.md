@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AbstractClientService
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AbstractClientService
 
 # Class: AbstractClientService<ActionType\>
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[abstract-client.service.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract-client.service.ts#L10)
+[abstract-client.service.ts:10](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract-client.service.ts#L10)
 
 ## Methods
 
@@ -70,7 +70,7 @@
 
 #### Defined in
 
-[abstract-client.service.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract-client.service.ts#L12)
+[abstract-client.service.ts:12](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract-client.service.ts#L12)
 
 ▸ **send**<`R`, `I`\>(`pattern`, `data`, `returnDataOptions`): `Promise`<`R`\>
 
@@ -95,7 +95,7 @@
 
 #### Defined in
 
-[abstract-client.service.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract-client.service.ts#L19)
+[abstract-client.service.ts:19](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract-client.service.ts#L19)
 
 ▸ **send**<`R`, `I`\>(`pattern`, `data`): `Promise`<`void`\>
 
@@ -119,4 +119,4 @@
 
 #### Defined in
 
-[abstract-client.service.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/common/abstract-client.service.ts#L27)
+[abstract-client.service.ts:27](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/common/abstract-client.service.ts#L27)

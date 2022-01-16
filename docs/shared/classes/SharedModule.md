@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / SharedModule
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / SharedModule
 
 # Class: SharedModule
 

@@ -15,8 +15,8 @@ function rrr {
         echo "Source Path - Directory : $1 / File : $i"
         echo "Destination Path - Directory : $2 / File : $i"
         # cp $1/$i $2/$i
-        # npx typedoc --entryPoints $1/$i --plugin typedoc-plugin-markdown --out $2/$i
-        npx typedoc --cleanOutputDir false --readme none --plugin typedoc-plugin-markdown --out $2 $1/$i 
+        # npx typedoc --entryPoints $1/$i --readme none --plugin typedoc-plugin-markdown --out $2/$i
+        npx typedoc --cleanOutputDir false --plugin typedoc-plugin-markdown --out $2 $1/$i 
       fi
     fi
   done

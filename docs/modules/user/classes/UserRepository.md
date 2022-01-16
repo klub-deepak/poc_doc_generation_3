@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / UserRepository
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / UserRepository
 
 # Class: UserRepository
 

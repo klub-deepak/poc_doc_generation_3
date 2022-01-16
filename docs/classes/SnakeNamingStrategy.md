@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / SnakeNamingStrategy
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / SnakeNamingStrategy
 
 # Class: SnakeNamingStrategy
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[src/snake-naming.strategy.ts:57](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/snake-naming.strategy.ts#L57)
+[src/snake-naming.strategy.ts:57](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/snake-naming.strategy.ts#L57)
 
 ___
 
@@ -208,7 +208,7 @@ DefaultNamingStrategy.columnName
 
 #### Defined in
 
-[src/snake-naming.strategy.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/snake-naming.strategy.ts#L13)
+[src/snake-naming.strategy.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/snake-naming.strategy.ts#L13)
 
 ___
 
@@ -385,7 +385,7 @@ DefaultNamingStrategy.joinColumnName
 
 #### Defined in
 
-[src/snake-naming.strategy.ts:28](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/snake-naming.strategy.ts#L28)
+[src/snake-naming.strategy.ts:28](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/snake-naming.strategy.ts#L28)
 
 ___
 
@@ -444,7 +444,7 @@ DefaultNamingStrategy.joinTableColumnName
 
 #### Defined in
 
-[src/snake-naming.strategy.ts:47](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/snake-naming.strategy.ts#L47)
+[src/snake-naming.strategy.ts:47](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/snake-naming.strategy.ts#L47)
 
 ___
 
@@ -505,7 +505,7 @@ DefaultNamingStrategy.joinTableName
 
 #### Defined in
 
-[src/snake-naming.strategy.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/snake-naming.strategy.ts#L32)
+[src/snake-naming.strategy.ts:32](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/snake-naming.strategy.ts#L32)
 
 ___
 
@@ -626,7 +626,7 @@ DefaultNamingStrategy.relationName
 
 #### Defined in
 
-[src/snake-naming.strategy.ts:24](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/snake-naming.strategy.ts#L24)
+[src/snake-naming.strategy.ts:24](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/snake-naming.strategy.ts#L24)
 
 ___
 
@@ -655,7 +655,7 @@ DefaultNamingStrategy.tableName
 
 #### Defined in
 
-[src/snake-naming.strategy.ts:9](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/snake-naming.strategy.ts#L9)
+[src/snake-naming.strategy.ts:9](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/snake-naming.strategy.ts#L9)
 
 ___
 

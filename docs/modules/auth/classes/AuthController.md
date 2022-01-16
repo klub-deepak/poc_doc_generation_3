@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / AuthController
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / AuthController
 
 # Class: AuthController
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[auth.controller.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/auth.controller.ts#L29)
+[auth.controller.ts:29](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/auth.controller.ts#L29)
 
 ## Methods
 
@@ -49,7 +49,7 @@
 
 #### Defined in
 
-[auth.controller.ts:77](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/auth.controller.ts#L77)
+[auth.controller.ts:77](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/auth.controller.ts#L77)
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 #### Defined in
 
-[auth.controller.ts:41](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/auth.controller.ts#L41)
+[auth.controller.ts:41](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/auth.controller.ts#L41)
 
 ___
 
@@ -90,4 +90,4 @@ ___
 
 #### Defined in
 
-[auth.controller.ts:58](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/modules/auth/auth.controller.ts#L58)
+[auth.controller.ts:58](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/modules/auth/auth.controller.ts#L58)

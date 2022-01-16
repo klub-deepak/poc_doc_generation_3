@@ -1,4 +1,4 @@
-[awesome-nestjs-boilerplate](../README.md) / RolesGuard
+[awesome-nestjs-boilerplate](../README.md) / [Exports](../modules.md) / RolesGuard
 
 # Class: RolesGuard
 
@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[roles.guard.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/guards/roles.guard.ts#L11)
+[roles.guard.ts:11](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/guards/roles.guard.ts#L11)
 
 ## Methods
 
@@ -54,4 +54,4 @@ CanActivate.canActivate
 
 #### Defined in
 
-[roles.guard.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/guards/roles.guard.ts#L13)
+[roles.guard.ts:13](https://github.com/klub-deepak/poc_doc_generation_3/blob/a592bb2/src/guards/roles.guard.ts#L13)
