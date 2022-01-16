@@ -1,3 +1,5 @@
+awesome-nestjs-boilerplate / [Modules](modules.md)
+
 # Awesome NestJS Boilerplate v8
 
 Added typedoc documentation
@@ -32,7 +34,6 @@ When you use this template, try follow the checklist to update your info properl
 - [ ] Clean up the README.md file
 
 And, enjoy :)
-
 
 ### Development
 ```bash
@@ -94,23 +95,17 @@ For help, discussion about best practices, or any other conversation that would 
 
 [Discuss Awesome NestJS Boilerplate on GitHub](https://github.com/NarHakobyan/awesome-nest-boilerplate/discussions)
 
-
 "docs": "npm run typedoc -- --options typedoc.json --exclude '**/*.spec.ts' ./src/app/",
 "typedoc": "typedoc"
 
-
 npx typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs --entryPointStrategy expand ./src
-
 
 npx typedoc -- --options typedoc.json --exclude '**/*.spec.ts' ./src
 
 --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs --entryPointStrategy expand ./src/**/*
 
-
 npx typedoc --entryPoints ./src --entryPointStrategy expand --out docs --plugin typedoc-plugin-markdown
 
-
 npx typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs/
-
 
 npx typedoc --tsconfig tsconfig.json --entryPointStrategy expand --out docs ./src --plugin typedoc-plugin-markdown

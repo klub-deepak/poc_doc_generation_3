@@ -1,0 +1,10 @@
+{
+    "entryPoints": ["./src/common/", "./src/constants/"],
+    "out": "docs",
+    "entryPointStrategy": "expand",
+    "tsconfig": "./tsconfig.json",
+    "pretty": true,
+    "json": "out.json",
+    "plugin": "typedoc-plugin-markdown",
+    "githubPages": false
+}
