@@ -1,111 +1,87 @@
-awesome-nestjs-boilerplate / [Modules](modules.md)
+awesome-nestjs-boilerplate
 
-# Awesome NestJS Boilerplate v8
+# awesome-nestjs-boilerplate
 
-Added typedoc documentation
+## Table of contents
 
-[![Awesome NestJS](https://img.shields.io/badge/Awesome-NestJS-blue.svg?longCache=true&style=flat-square)](https://github.com/juliandavidmr/awesome-nestjs)
+### Type aliases
 
-> This is an ever-evolving, very opinionated architecture and dev environment for new node projects using [NestJS](https://nestjs.com). Questions, feedback, and for now, even bikeshedding are welcome. 😄
+- [Constructor](README.md#constructor)
+- [Nullable](README.md#nullable)
+- [Optional](README.md#optional)
+- [Plain](README.md#plain)
 
-## Getting started
+## Type aliases
 
-```bash
-# 1. Clone the repository or click on "Use this template" button.
-npx degit NarHakobyan/awesome-nest-boilerplate my-nest-app
+### Constructor
 
-# 2. Enter your newly-cloned folder.
-cd my-nest-app
+Ƭ **Constructor**<`T`, `Arguments`\>: (...`arguments_`: `Arguments`) => `T`
 
-# 3. Create Environment variables file.
-cp .env.example .env
+#### Type parameters
 
-# 3. Install dependencies. (Make sure yarn is installed: https://yarnpkg.com/lang/en/docs/install)
-yarn
-```
+| Name | Type |
+| :------ | :------ |
+| `T` | `T` |
+| `Arguments` | extends `unknown`[] = `undefined`[] |
 
-## Checklist
+#### Type declaration
 
-When you use this template, try follow the checklist to update your info properly
+• (...`arguments_`)
 
-- [ ] Change the author name in `LICENSE`
-- [ ] Change configurations in `.env`
-- [ ] Remove the `.github` folder which contains the funding info
-- [ ] Clean up the README.md file
+##### Parameters
 
-And, enjoy :)
+| Name | Type |
+| :------ | :------ |
+| `...arguments_` | `Arguments` |
 
-### Development
-```bash
-# 4. Run development server and open http://localhost:3000
-yarn start:dev
+#### Defined in
 
-# 5. Read the documentation linked below for "Setup and development".
-```
+[types.ts:1](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/types.ts#L1)
 
-### Build
+___
 
-To build the App, run
+### Nullable
 
-```bash
-yarn build:prod
-```
+Ƭ **Nullable**<`T`\>: `T` \| ``null``
 
-And you will see the generated file in `dist` that ready to be served.
+#### Type parameters
 
-## Features
+| Name |
+| :------ |
+| `T` |
 
-<dl>
-  <!-- <dt><b>Quick scaffolding</b></dt>
-  <dd>Create modules, services, controller - right from the CLI!</dd> -->
+#### Defined in
 
-  <dt><b>Instant feedback</b></dt>
-  <dd>Enjoy the best DX (Developer eXperience) and code your app at the speed of thought! Your saved changes are reflected instantaneously.</dd>
+[types.ts:7](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/types.ts#L7)
 
-  <dt><b>JWT Authentication</b></dt>
-  <dd>Installed and configured JWT authentication.</dd>
+___
 
-  <dt><b>Next generation Typescript</b></dt>
-  <dd>Always up to date typescript version.</dd>
+### Optional
 
-  <dt><b>Industry-standard routing</b></dt>
-  <dd>It's natural to want to add pages (e.g. /about`) to your application, and routing makes this possible.</dd>
+Ƭ **Optional**<`T`\>: `T` \| `undefined`
 
-  <dt><b>Environment Configuration</b></dt>
-  <dd>development, staging and production environment configurations</dd>
+#### Type parameters
 
-  <dt><b>Swagger Api Documentation</b></dt>
-  <dd>Already integrated API documentation. To see all available endpoints visit http://localhost:3000/documentation</dd>
+| Name |
+| :------ |
+| `T` |
 
-  <dt><b>Linter</b></dt>  
-  <dd>eslint + prettier = ❤️</dd>
-</dl>
+#### Defined in
 
-## Documentation
+[types.ts:6](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/types.ts#L6)
 
-This project includes a `docs` folder with more details on:
+___
 
-1.  [Setup and development](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/development.html#first-time-setup)
-1.  [Architecture](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/architecture.html)
-1.  [Naming Cheatsheet](https://narhakobyan.github.io/awesome-nest-boilerplate/docs/naming-cheatsheet.html)
+### Plain
 
-## Community
+Ƭ **Plain**<`T`\>: `T`
 
-For help, discussion about best practices, or any other conversation that would benefit from being searchable:
+#### Type parameters
 
-[Discuss Awesome NestJS Boilerplate on GitHub](https://github.com/NarHakobyan/awesome-nest-boilerplate/discussions)
+| Name |
+| :------ |
+| `T` |
 
-"docs": "npm run typedoc -- --options typedoc.json --exclude '**/*.spec.ts' ./src/app/",
-"typedoc": "typedoc"
+#### Defined in
 
-npx typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs --entryPointStrategy expand ./src
-
-npx typedoc -- --options typedoc.json --exclude '**/*.spec.ts' ./src
-
---plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs --entryPointStrategy expand ./src/**/*
-
-npx typedoc --entryPoints ./src --entryPointStrategy expand --out docs --plugin typedoc-plugin-markdown
-
-npx typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json --out docs/
-
-npx typedoc --tsconfig tsconfig.json --entryPointStrategy expand --out docs ./src --plugin typedoc-plugin-markdown
+[types.ts:5](https://github.com/klub-deepak/poc_doc_generation_3/blob/afd7f83/src/types.ts#L5)

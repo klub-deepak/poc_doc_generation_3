@@ -1,0 +1,26 @@
+#!/bin/bash
+# 1st argument - source dir, 2nd - destination
+
+function rrr {
+  for i in `ls $1`
+  do
+    if [ -d $1/$i ]
+    then
+      echo "Directory Source Path - Directory : $1 / File : $i"
+      echo "Directory Destination Path - Directory : $2 / File : $i"
+      mkdir $2/$i
+      rrr $1/$i $2/$i
+    else if [ -f $1/$i ]
+      then
+        echo "Source Path - Directory : $1 / File : $i"
+        echo "Destination Path - Directory : $2 / File : $i"
+        # cp $1/$i $2/$i
+        # npx typedoc --entryPoints $1/$i --plugin typedoc-plugin-markdown --out $2/$i
+        npx typedoc --cleanOutputDir false --readme none --plugin typedoc-plugin-markdown --out $2 $1/$i 
+      fi
+    fi
+  done
+}
+
+
+rrr './src'  './docs'
